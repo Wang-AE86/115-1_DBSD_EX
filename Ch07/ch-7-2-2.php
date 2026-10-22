@@ -5,7 +5,6 @@ $arr = array(
 "Shape" => "Triangle",
 100
 );
-I
 $arr["type"] = "PHP";
 unset($arr["type"]);
 foreach ($arr as $key=>$value){
